@@ -1,6 +1,6 @@
-console.log("Projet CI/CD M1 Architecture des logiciels");
+import http from 'http';
 
-const http = require('http');
+console.log("Projet CI/CD M1 Architecture des logiciels");
 
 const PORT = 5000;
 
