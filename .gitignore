@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Coverage
+coverage/
+
+# Environnements
+.env
+.env.*        # .env.development, .env.test, etc.
+
+# Build (si tu compiles TypeScript ou bundling)
+dist/
+build/
+out/
+
+# Playwright test outputs
+test-results/
+
+# Jest coverage & cache
+jest-coverage/
+.cache/
