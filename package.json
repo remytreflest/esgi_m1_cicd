@@ -19,7 +19,7 @@
     "lint": "eslint .",
     "test": "jest",
     "test:e2e": "playwright test",
-    "build": "aucun build n'a pas encore été installé"
+    "build": "echo \"Aucune étape de build nécessaire pour ce projet. Je savais pas qu'il fallait des quote à l'intérieur.\""
   },
   "devDependencies": {
     "eslint": "^9.29.0",
